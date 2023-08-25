@@ -195,7 +195,7 @@ main {
 }
 
 /* Gallery page */
-#photos img {
+  #photos img {
     width: 100%;
     line-height: 1em;
 }
